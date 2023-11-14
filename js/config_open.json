@@ -16,7 +16,7 @@
     "key": "wogg",
     "name": "猫丨玩偶",
     "type": 3,
-    "api": "./wogg_open.js",
+    "api": "wogg_open.js",
     "ext": "609255240289492d8ea5a446e2493c17"
   },
 {"key": "tuxiaobei","name": "猫丨小贝","type": 3,"api": "./tuxiaobei_open.js"}, 
